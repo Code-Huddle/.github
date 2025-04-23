@@ -59,7 +59,7 @@ These examples represent just a snapshot of our capabilities and the diverse ran
 
 While our primary focus is on delivering exceptional software solutions, we recognize the importance of community within the broader tech ecosystem. Currently, information regarding a specific, publicly facing "Code Huddle" community directly associated with our company is limited. However, we are always exploring opportunities to engage with the wider tech community and foster connections within the industry. We believe in the power of shared knowledge and continuous learning.
 
-It's worth noting that there is a GitHub organization named "huddle" . This organization, based in London, UK, appears to be associated with a document collaboration software company called Ideagen . While the name is the same, based on our research, there is no explicit indication of a direct affiliation between this GitHub organization and our custom software development company, Code Huddle, located in Islamabad, Pakistan . Our official GitHub presence for our projects and contributions will be clearly identified and linked on our website once it becomes accessible.
+It's worth noting that there is a GitHub organization named "huddle" . This organization, based in London, UK, appears to be associated with a document collaboration software company called Ideagen . While the name is the same, based on our research, there is no explicit indication of a direct affiliation between this GitHub organization and our custom software development company, Code Huddle, located in Islamabad, Pakistan . Our official GitHub presence for our projects and contributions will be clearly identified and linked on our website.
 
 **Why Choose Code Huddle?**
 
@@ -82,11 +82,11 @@ Code Huddle welcomes engagement from individuals and organizations who are passi
 
 **For Potential Clients:**
 
-If you have a software development project in mind, a web application you want to build, a mobile app idea you want to bring to life, or if you need expert UI/UX design or staff augmentation services, we encourage you to reach out. We offer a free initial consultation to discuss your project requirements in detail and explore how Code Huddle can help you achieve your business objectives . Contact us today at [email address removed] to schedule your consultation. You can also find more information about our services and read client testimonials on our profiles on Upwork [Insert Upwork Profile Link if Available] and Clutch [Insert Clutch Profile Link if Available].
+If you have a software development project in mind, a web application you want to build, a mobile app idea you want to bring to life, or if you need expert UI/UX design or staff augmentation services, we encourage you to reach out. We offer a free initial consultation to discuss your project requirements in detail and explore how Code Huddle can help you achieve your business objectives . Contact us today at [hello@code-huddle.com](mailto:hello@code-huddle.com) to schedule your consultation. You can also find more information about our services and read client testimonials on our profiles on Upwork and Clutch.
 
 **For Potential Candidates:**
 
-We are always on the lookout for talented and motivated individuals to join our growing team. If you are a skilled developer, a creative designer, or a passionate technology professional seeking a challenging and rewarding career opportunity, we encourage you to get in touch. Please send your resume and a brief introduction to [email address removed]. We'd love to hear from you\!
+We are always on the lookout for talented and motivated individuals to join our growing team. If you are a skilled developer, a creative designer, or a passionate technology professional seeking a challenging and rewarding career opportunity, we encourage you to get in touch. Please send your resume and a brief introduction to [hr@code-huddle.com](mailto:hr@code-huddle.com). We'd love to hear from you\!
 
 **Contact Us:**
 
