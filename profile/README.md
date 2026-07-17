@@ -1,3 +1,5 @@
+![Code Huddle — Build the software your next stage depends on](./assets/code-huddle-banner.svg)
+
 <div align="center">
 
 # Code Huddle
