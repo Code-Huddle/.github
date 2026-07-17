@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title description">
+  <title id="title">Code Huddle</title>
+  <desc id="description">Build the software your next stage depends on.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020713"/>
+      <stop offset="0.55" stop-color="#061126"/>
+      <stop offset="1" stop-color="#09052a"/>
+    </linearGradient>
+    <linearGradient id="blueLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b5cff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0b7cff"/>
+      <stop offset="1" stop-color="#21d4ff" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="violetLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4d3cff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7c4dff"/>
+      <stop offset="1" stop-color="#ba5cff" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="topFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10356e"/>
+      <stop offset="1" stop-color="#15104a"/>
+    </linearGradient>
+    <linearGradient id="leftFace" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#092a59"/>
+      <stop offset="1" stop-color="#04142e"/>
+    </linearGradient>
+    <linearGradient id="rightFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#142555"/>
+      <stop offset="1" stop-color="#08082d"/>
+    </linearGradient>
+    <radialGradient id="horizonGlow">
+      <stop offset="0" stop-color="#d8f8ff" stop-opacity="0.95"/>
+      <stop offset="0.08" stop-color="#36c9ff" stop-opacity="0.8"/>
+      <stop offset="0.32" stop-color="#0868ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0868ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <filter id="smallGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#244064" stroke-width="1" opacity="0.28"/>
+      <circle cx="0" cy="0" r="2" fill="#2b5a91" opacity="0.7"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="400" rx="14" fill="url(#background)"/>
+  <rect width="1600" height="400" rx="14" fill="url(#grid)" opacity="0.62"/>
+  <path d="M0 318 C360 310 632 322 845 218 C1040 124 1290 94 1600 106" fill="none" stroke="url(#blueLine)" stroke-width="2" opacity="0.7"/>
+  <path d="M0 344 C410 340 672 335 892 238 C1110 142 1330 112 1600 128" fill="none" stroke="url(#violetLine)" stroke-width="2" opacity="0.55"/>
+  <path d="M566 400 C770 290 893 224 1051 191 C1224 154 1385 161 1600 205" fill="none" stroke="#078cff" stroke-width="1.4" opacity="0.42"/>
+  <path d="M641 400 C828 303 968 245 1132 224 C1294 204 1444 222 1600 279" fill="none" stroke="#7c4dff" stroke-width="1.2" opacity="0.42"/>
+
+  <ellipse cx="1213" cy="91" rx="260" ry="115" fill="url(#horizonGlow)" opacity="0.82"/>
+  <circle cx="1214" cy="92" r="8" fill="#effeff" filter="url(#smallGlow)"/>
+  <circle cx="1214" cy="92" r="3" fill="#ffffff"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M1004 232 L1112 270 L1257 242 L1385 286 L1510 236" stroke="#087bff" stroke-width="2" opacity="0.82"/>
+    <path d="M1112 270 L1173 158 L1358 143 L1451 198" stroke="#7653ff" stroke-width="2" opacity="0.72"/>
+    <circle cx="1004" cy="232" r="4" fill="#1abfff" stroke="none"/>
+    <circle cx="1112" cy="270" r="4" fill="#1abfff" stroke="none"/>
+    <circle cx="1257" cy="242" r="4" fill="#7f5cff" stroke="none"/>
+    <circle cx="1385" cy="286" r="4" fill="#1abfff" stroke="none"/>
+    <circle cx="1510" cy="236" r="4" fill="#1abfff" stroke="none"/>
+    <circle cx="1173" cy="158" r="4" fill="#1abfff" stroke="none"/>
+    <circle cx="1358" cy="143" r="4" fill="#9f5cff" stroke="none"/>
+    <circle cx="1451" cy="198" r="4" fill="#1abfff" stroke="none"/>
+  </g>
+
+  <g transform="translate(1115 202)">
+    <polygon points="0,42 94,0 188,42 94,84" fill="url(#topFace)" stroke="#438dff" stroke-width="2"/>
+    <polygon points="0,42 94,84 94,170 0,128" fill="url(#leftFace)" stroke="#1769d3" stroke-width="2"/>
+    <polygon points="188,42 94,84 94,170 188,128" fill="url(#rightFace)" stroke="#5948da" stroke-width="2"/>
+    <polygon points="-24,144 94,194 212,144 212,162 94,214 -24,162" fill="#07183a" stroke="#235fe0" stroke-width="2"/>
+    <path d="M18 153 L94 184 L171 153" fill="none" stroke="#2da4ff" stroke-width="3" opacity="0.9" filter="url(#smallGlow)"/>
+  </g>
+
+  <g transform="translate(985 123) scale(.55)">
+    <polygon points="0,42 94,0 188,42 94,84" fill="url(#topFace)" stroke="#28b6ff" stroke-width="2"/>
+    <polygon points="0,42 94,84 94,170 0,128" fill="url(#leftFace)" stroke="#1788dc" stroke-width="2"/>
+    <polygon points="188,42 94,84 94,170 188,128" fill="url(#rightFace)" stroke="#214fba" stroke-width="2"/>
+    <path d="M73 106 l-19 18 19 18 M116 106 l19 18 -19 18 M105 98 l-20 52" fill="none" stroke="#21d4ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(1380 89) scale(.52)">
+    <polygon points="0,42 94,0 188,42 94,84" fill="url(#topFace)" stroke="#a067ff" stroke-width="2"/>
+    <polygon points="0,42 94,84 94,170 0,128" fill="url(#leftFace)" stroke="#5d39b5" stroke-width="2"/>
+    <polygon points="188,42 94,84 94,170 188,128" fill="url(#rightFace)" stroke="#7951e8" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(1414 225) scale(.54)">
+    <polygon points="0,42 94,0 188,42 94,84" fill="url(#topFace)" stroke="#3d8aff" stroke-width="2"/>
+    <polygon points="0,42 94,84 94,170 0,128" fill="url(#leftFace)" stroke="#1f5cb3" stroke-width="2"/>
+    <polygon points="188,42 94,84 94,170 188,128" fill="url(#rightFace)" stroke="#2845a5" stroke-width="2"/>
+    <path d="M60 140 V119 M88 140 V98 M116 140 V112 M144 140 V84" stroke="#23bfff" stroke-width="9" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <text x="88" y="188" fill="#f7fbff" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="80" font-weight="700" letter-spacing="2">CODE HUDDLE</text>
+    <text x="93" y="239" fill="#e4eaf3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="500" letter-spacing="5.1">BUILD THE SOFTWARE YOUR NEXT STAGE DEPENDS ON.</text>
+    <rect x="91" y="269" width="265" height="3" rx="1.5" fill="url(#blueLine)"/>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1598.5" height="398.5" rx="13.25" fill="none" stroke="#1c3f77" stroke-width="1.5" opacity="0.55"/>
+</svg>
